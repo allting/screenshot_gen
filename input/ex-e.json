@@ -1,0 +1,107 @@
+[
+    {
+      "width": 1320,
+      "height": 2868,
+      "backgroundColor": "#f0f0f0",
+      "image": "./input/1e.png",
+      "title": "Drive Record",
+      "subtitle": "Create trip records using your iPhone",
+      "titleColor": "#000000",
+      "titlePosition": { "x": "center", "y": 240 },
+      "titleGradient": ["#fffb2b", "#fff16c"],
+      "outlineWidth": 20,
+      "output": "output/1e.jpg"
+    },
+    {
+      "width": 1320,
+      "height": 2868,
+      "backgroundColor": "#f0f0f0",
+      "image": "./input/2e.png",
+      "title": "Drive Record",
+      "subtitle": "Track routes, efficiency, and more",
+      "titleColor": "#000000",
+      "titlePosition": { "x": "center", "y": 240 },
+      "titleGradient": ["#fffb2b", "#fff16c"],
+      "outlineWidth": 20,
+      "output": "output/2e.jpg"
+    },
+    {
+      "width": 1320,
+      "height": 2868,
+      "backgroundColor": "#f0f0f0",
+      "image": "./input/3e.png",
+      "title": "Trip History",
+      "subtitle": "View monthly logs with calendar",
+      "titleColor": "#000000",
+      "titlePosition": { "x": "center", "y": 240 },
+      "titleGradient": ["#fffb2b", "#fff16c"],
+      "outlineWidth": 20,
+      "output": "output/3e.jpg"
+    },
+    {
+      "width": 1320,
+      "height": 2868,
+      "backgroundColor": "#f0f0f0",
+      "image": "./input/4e.png",
+      "title": "Trip Charts",
+      "subtitle": "Distance, Speed, and Elevation",
+      "titleColor": "#000000",
+      "titlePosition": { "x": "center", "y": 240 },
+      "titleGradient": ["#fffb2b", "#fff16c"],
+      "outlineWidth": 20,
+      "output": "output/4e.jpg"
+    },
+    {
+      "width": 1320,
+      "height": 2868,
+      "backgroundColor": "#f0f0f0",
+      "image": "./input/5e.png",
+      "title": "Navigation Sync",
+      "subtitle": "Send destinations to your car",
+      "titleColor": "#000000",
+      "titlePosition": { "x": "center", "y": 240 },
+      "titleGradient": ["#fffb2b", "#fff16c"],
+      "outlineWidth": 20,
+      "output": "output/5e.jpg"
+    },
+    {
+      "width": 1320,
+      "height": 2868,
+      "backgroundColor": "#f0f0f0",
+      "image": "./input/6e.png",
+      "title": "Trip Planning",
+      "subtitle": "Add Supercharger to routes",
+      "titleColor": "#000000",
+      "titlePosition": { "x": "center", "y": 240 },
+      "titleGradient": ["#fffb2b", "#fff16c"],
+      "outlineWidth": 20,
+      "output": "output/6e.jpg"
+    },
+    {
+      "width": 1320,
+      "height": 2868,
+      "backgroundColor": "#f0f0f0",
+      "image": "./input/7e.png",
+      "title": "Supercharger",
+      "subtitle": "Find and send Superchargers",
+      "titleColor": "#000000",
+      "titlePosition": { "x": "center", "y": 240 },
+      "titleGradient": ["#fffb2b", "#fff16c"],
+      "outlineWidth": 20,
+      "output": "output/7e.jpg"
+    },
+        {
+      "width": 1320,
+      "height": 2868,
+      "backgroundColor": "#f0f0f0",
+      "image": "./input/8e.png",
+      "title": "Shortcuts",
+      "subtitle": "Control with Shortcuts and Siri",
+      "titleColor": "#000000",
+      "titlePosition": { "x": "center", "y": 240 },
+      "titleGradient": ["#fffb2b", "#fff16c"],
+      "outlineWidth": 20,
+      "output": "output/8e.jpg"
+    }
+]
+  

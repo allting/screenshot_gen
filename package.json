@@ -1,0 +1,19 @@
+{
+  "name": "screenshot-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "skia-canvas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.15.17",
+    "typescript": "^5.8.3"
+  }
+}
