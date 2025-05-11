@@ -30,9 +30,9 @@ yarn start -- ./input/example.json
 
 ## 🖼️ 샘플 출력 이미지
 
-| 1.jpg | 2.jpg |
+| 2.jpg | 4.jpg |
 |:-----:|:-----:|
-| ![1](./output/1.jpg) | ![2](./output/2.jpg) |
+| ![1](./output/2.jpg) | ![2](./output/4.jpg) |
 
 ---
 
